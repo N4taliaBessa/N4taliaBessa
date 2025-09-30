@@ -32,7 +32,8 @@
 
 15. O que a operação lógica `NÃO` (NOT) faz com uma afirmação?
 
-**RESPOSTAS**
+**RESPOSTAS**  
+
 1- Esse é um exemplo clássico de silogismo categórico na lógica dedutiva. A estrutura é:
 
 Todos os A são B (gatos → mamíferos)
